@@ -30,4 +30,4 @@ Café :coffee:
 
 
 ## Entre em contato comigo####
-[![Gmail Badge](https://mail.google.com/mail/u/0/?hl=pt-BR#inbox/KtbxLthtGhttGNHWNDFcslWrmzCxDqGGVV-ana.couto14091193@gmail.com)
+[!Gmail Badge](a href="https://mail.google.com/mail/u/0/?hl=pt-BR#inbox/KtbxLthtGhttGNHWNDFcslWrmzCxDqGGVV-ana.couto14091193@gmail.com")
