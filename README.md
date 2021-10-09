@@ -2,7 +2,7 @@
 Sou Ana Carolina Ribeiro da Silva Couto
 Sou estudante na Digital House Brasil. 👨🏾‍🎓
 <br>
-Curso: Certified Tech Developer -  Desenvolvimento WEB 👨🏾‍💻
+Curso: Certified Tech Developer -  Desenvolvimento WEB fullstack👨🏾‍💻
 
 Essas são minhas skills até o momento:
 <br>HTML5 - Intermediário
